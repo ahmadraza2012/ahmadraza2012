@@ -27,6 +27,7 @@ With over **8 years of industry experience**, I specialize in building secure, s
 ---
 
 ### 📈 Featured Projects
+- [Query Mate using LLM](https://github.com/ahmadraza2012/query_mate_llm)
 - [Analyze A/B Test Results](https://github.com/ahmadraza2012/Analyze-A-B-Test-Results)
 - [Data Wrangling Project](https://github.com/ahmadraza2012/Data-Wrangling)
 - [Explore Weather Trends](https://github.com/ahmadraza2012/Explore-Weather-Trends)
