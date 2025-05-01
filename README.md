@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Ahmad Raza
 
-<!--
-**ahmadraza2012/ahmadraza2012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Principal Software Engineer | FinTech Specialist | Backend Expert (Node.js, NestJS, GraphQL)**
 
-Here are some ideas to get you started:
+With over **8 years of industry experience**, I specialize in building secure, scalable, and modern backend solutions — primarily in the **FinTech domain**. I’ve worked extensively on projects involving **digital banking**, **wallet systems**, and **customer onboarding flows**, delivering production-ready applications across the GCC region.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💼 Professional Highlights
+- 🔐 **Digital Onboarding** platforms for top banks (e.g., KFH - Bahrain)
+- 💳 **Wallet System** for telecom fintech (FriendiPay - Oman)
+- 🏦 **Corporate & Retail Internet Banking**
+- ⚙️ **CI/CD & DevOps** automation for high-availability systems
+- 🔍 **KYC / AML** integration using 3rd-party SDKs and APIs
+- 🧠 Microservices | Serverless | REST & GraphQL | Dockerized Deployments
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages**: TypeScript, JavaScript, Python
+- **Frameworks**: Node.js, NestJS, Express.js, Angular
+- **Tools**: Docker, GitHub Actions, GitLab CI/CD, Nginx
+- **Cloud & Infra**: AWS, Azure, Docker Swarm, S3, EC2
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+
+---
+
+### 📈 Featured Projects
+- [Analyze A/B Test Results](https://github.com/ahmadraza2012/Analyze-A-B-Test-Results)
+- [Data Wrangling Project](https://github.com/ahmadraza2012/Data-Wrangling)
+- [Explore Weather Trends](https://github.com/ahmadraza2012/Explore-Weather-Trends)
+- [Here Maps in Angular](https://github.com/ahmadraza2012/here-maps-in-angular-8)
+
+---
+
+### 📫 Let’s Connect
+
+- 📍 Riyadh, Saudi Arabia
+- 📧 devmraza@gmail.com
+- 🔗 [LinkedIn](https://pk.linkedin.com/in/ahmadraza2012)
+
+---
+
+> I’m always open to collaboration, mentoring, and tech discussions — feel free to reach out!
