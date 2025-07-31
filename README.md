@@ -12,7 +12,9 @@ With over **8 years of industry experience**, I specialize in building secure, s
 - 🏦 **Corporate & Retail Internet Banking**
 - ⚙️ **CI/CD & DevOps** automation for high-availability systems
 - 🔍 **KYC / AML** integration using 3rd-party SDKs and APIs
-- 🧠 Microservices | Serverless | REST & GraphQL | Dockerized Deployments
+- 🧠 **Microservices | Serverless | REST & GraphQL | Dockerized Deployments**
+
+> **Note:** My professional work is primarily on private repositories under my [office GitHub](https://github.com/aahmadraza).
 
 ---
 
@@ -26,7 +28,14 @@ With over **8 years of industry experience**, I specialize in building secure, s
 
 ---
 
-### 📈 Featured Projects
+### 💼 Office Account (Private Work)
+
+Most of my professional contributions are on **private repositories** under my office account:  
+[![Office GitHub](https://img.shields.io/badge/GitHub-aahmadraza-blue?logo=github&style=for-the-badge)](https://github.com/aahmadraza)
+
+---
+
+### 🌟 Featured Personal Projects
 - [Query Mate using LLM](https://github.com/ahmadraza2012/query_mate_llm)
 - [Analyze A/B Test Results](https://github.com/ahmadraza2012/Analyze-A-B-Test-Results)
 - [Data Wrangling Project](https://github.com/ahmadraza2012/Data-Wrangling)
@@ -37,9 +46,9 @@ With over **8 years of industry experience**, I specialize in building secure, s
 
 ### 📫 Let’s Connect
 
-- 📍 Riyadh, Saudi Arabia
-- 📧 devmraza@gmail.com
-- 🔗 [LinkedIn](https://pk.linkedin.com/in/ahmadraza2012)
+- 📍 Riyadh, Saudi Arabia  
+- 📧 devmraza@gmail.com  
+- 🔗 [LinkedIn](https://pk.linkedin.com/in/ahmadraza2012)  
 
 ---
 
